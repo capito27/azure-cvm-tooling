@@ -7,6 +7,7 @@ license = "MIT"
 keywords = ["azure", "tpm", "sev-snp", "tdx"]
 categories = ["cryptography", "virtualization"]
 description = "Package with shared code for Azure Confidential VMs"
+rust-version = "1.79.0"
 
 [workspace]
 members = [
